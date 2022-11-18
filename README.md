@@ -15,7 +15,8 @@
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="![Logo (1)](https://user-images.githubusercontent.com/89588417/202672245-5f4ef38c-4102-43d7-84a5-75d5c79f272c.png)
+" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Tableau Badge"/>
