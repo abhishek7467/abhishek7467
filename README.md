@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Data Science Coures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--  ![Logo (1)](https://user-images.githubusercontent.com/89588417/202665699-0e31c84d-9ac4-40f5-8015-f5adc4966d35.png)
+- ![pngwing com (7)](https://user-images.githubusercontent.com/89588417/202666784-1b5478ed-dea8-4b98-b909-a097d7a7d412.png)
  https://public.tableau.com/app/profile/abhishek.kumar4541
+-  ![svgexport-31](https://user-images.githubusercontent.com/89588417/202666166-2495d930-7070-4d1d-8db8-d528290b5b19.png)
+ https://www.linkedin.com/in/abhishek-kumar-aa1224206/
 
 <!---
 abhishek7467/abhishek7467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
