@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/abhishek-kumar-aa1224206/">
     <img src="https://img.shields.io/badge/Linkedin-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tableau Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Abhishe45580955?t=Sb493uEapJbYPKULd6R5ug&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
