@@ -21,8 +21,9 @@
   <a href="https://twitter.com/Abhishe45580955?t=Sb493uEapJbYPKULd6R5ug&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div id="git" align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishek7467&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 
