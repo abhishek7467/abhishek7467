@@ -9,7 +9,7 @@
 -  ![svgexport-31](https://user-images.githubusercontent.com/89588417/202666166-2495d930-7070-4d1d-8db8-d528290b5b19.png)
    Follow me on Linkedin https://www.linkedin.com/in/abhishek-kumar-aa1224206/
 
-
+<div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
