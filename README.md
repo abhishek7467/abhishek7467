@@ -58,16 +58,16 @@ I am a Data Analyst and Data Scientist  <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="![pngwing com (8)](https://user-images.githubusercontent.com/89588417/202685168-e7ffbf8f-7e18-4219-b97f-343a01fbada5.png)" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/flutter-original.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202685168-e7ffbf8f-7e18-4219-b97f-343a01fbada5.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202685724-5224e65a-dd5a-46e6-ac74-b6f6d8dc7d53.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202686014-02c0446a-253e-4235-a9c6-ae2bbe9663d4.png" title="Tableau" alt="Tableau " width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202688093-1d6dfe82-6e10-4af4-94c0-3a5f8d900597.png"  title="Power BI" alt="Power BI" width="60" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202688428-f18f3bb9-f954-4707-a3bd-c6b3d5c187aa.png" title="Pycherm" alt="Pycherm" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202689283-1c97444d-2b55-4c11-8896-efcd537aaedc.png" title="Anaconda" alt="Anaconda" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202690250-921c7b64-f3e6-4b26-bb56-e37b67c67e60.png" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/89588417/202690553-8883bcc2-458c-4ea0-9896-e9b708210ec3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
