@@ -9,7 +9,9 @@
 -  ![svgexport-31](https://user-images.githubusercontent.com/89588417/202666166-2495d930-7070-4d1d-8db8-d528290b5b19.png)
    Follow me on Linkedin https://www.linkedin.com/in/abhishek-kumar-aa1224206/
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges">
   <a href="your-linkedin-URL">
