@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science Coures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ![pngwing com (7)](https://user-images.githubusercontent.com/89588417/202666784-1b5478ed-dea8-4b98-b909-a097d7a7d412.png)
+- ![Logo (1)](https://user-images.githubusercontent.com/89588417/202667115-7cb731fd-2448-45a8-8d62-c22d3b74cf1c.png)
  https://public.tableau.com/app/profile/abhishek.kumar4541
 -  ![svgexport-31](https://user-images.githubusercontent.com/89588417/202666166-2495d930-7070-4d1d-8db8-d528290b5b19.png)
  https://www.linkedin.com/in/abhishek-kumar-aa1224206/
