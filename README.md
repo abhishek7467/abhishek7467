@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek7467
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Science Coures
+- 🌱 I'm learning always..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I love ☕ 🍕 and 💻
